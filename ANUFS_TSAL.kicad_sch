@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c9330083-ecde-4a9f-a6cd-09ec4b9ea29b")
+	(paper "A4")
+	(lib_symbols)
+	(text "Placeholder text to initialise project in git"
+		(exclude_from_sim no)
+		(at 150.622 90.678 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "14614e2a-7fb1-4683-b193-1a1ffe1a9d47")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
