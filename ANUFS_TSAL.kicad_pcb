@@ -7140,5 +7140,16 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 99.5 64.5)
+		(end 159.5 104.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Cu")
+		(uuid "4bde9e43-73fd-42b5-a4db-03df5fdf54e1")
+	)
 	(embedded_fonts no)
 )
